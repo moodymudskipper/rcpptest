@@ -1,6 +1,7 @@
 
 #include <Rcpp.h>
 #include <R.h>
+#include <RInternals.h>
 using namespace Rcpp;
 
 // [[Rcpp::export]]
