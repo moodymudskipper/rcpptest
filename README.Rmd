@@ -1,0 +1,26 @@
+---
+output: github_document
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+<!-- badges: start -->
+[![Travis build status](https://travis-ci.com/moodymudskipper/rcpptest.svg?branch=master)](https://travis-ci.com/moodymudskipper/rcpptest)
+<!-- badges: end -->
+
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  fig.path = "man/figures/README-",
+  out.width = "100%"
+)
+```
+
+# rcpptest
+
+<!-- badges: start -->
+<!-- badges: end -->
+
+The goal of rcpptest is to ...

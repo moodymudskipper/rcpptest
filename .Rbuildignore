@@ -1,3 +1,5 @@
 ^.*\.Rproj$
 ^\.Rproj\.user$
 ^rcpptest\.Rproj$
+^\.travis\.yml$
+^README\.Rmd$
